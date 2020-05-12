@@ -11,11 +11,11 @@
       "version": "8.5.53",
       "versionDate": "2020-05-12",
       "versionDescription": "Fixed to work on newer iOS versions..",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/delta-lite-beta.ipa",
+      "downloadURL": "https://github.com/Cracked-Repo/apps/blob/master/apps/Spotify++/Spotify++.ipa?raw=true",
       "localizedDescription": "Spotify++ allows you to stream any song you want without ads.",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
-      "tintColor": "8A28F7",
-      "size": 16509767,
+      "iconURL": "https://raw.githubusercontent.com/Cracked-Repo/apps/master/apps/Spotify%2B%2B/AppIcon60x60%402x.png",
+      "tintColor": "32CD32",
+      "size": 364844,
       "permissions": [
         {
           "type": "camera",
