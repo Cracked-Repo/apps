@@ -4,23 +4,42 @@
   "sourceURL": "https://raw.githubusercontent.com/Cracked-Repo/apps/master/testing.json",
   "apps": [
     {
-      "name": "Delta Lite",
-      "bundleIdentifier": "com.rileytestut.Delta.Lite.Beta",
-      "developerName": "Riley Testut",
-      "subtitle": "The 80s (and 90s) in your pocket.",
-      "version": "1.0b",
-      "versionDate": "2019-09-25",
-      "versionDescription": "Adds support for GBC games in addition to NES.",
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Cracked Repo",
+      "subtitle": "Spotify Premium free",
+      "version": "8.5.53",
+      "versionDate": "2020-05-12",
+      "versionDescription": "Fixed to work on newer iOS versions..",
       "downloadURL": "https://f000.backblazeb2.com/file/altstore/delta-lite-beta.ipa",
-      "localizedDescription": "Delta Lite brings NES and GBC games to iOS.",
+      "localizedDescription": "Spotify++ allows you to stream any song you want without ads.",
       "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
       "tintColor": "8A28F7",
       "size": 16509767,
-      "beta": true,
       "permissions": [
         {
+          "type": "camera",
+          "usageDescription": "This lets you scan Spotify Codes."
+        },
+        {
           "type": "photos",
-          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+          "usageDescription": "This lets you save and select images to and from your Photo Library."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Used to control your tempo for Spotify Running."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you control Spotify using your voice."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "This lets you use Spotify with external accessories."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "This lets you set access restrictions using Face ID."
         }
       ],
       "screenshotURLs": [
