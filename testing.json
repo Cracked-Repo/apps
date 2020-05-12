@@ -208,7 +208,7 @@
       "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
       "appID": "com.rileytestut.Delta",
       "date": "2019-09-28",
-      "notify": true
+      "notify": false
     },
     {
       "title": "Welcome to AltStore",
@@ -236,7 +236,7 @@
       "tintColor": "018084",
       "imageURL": "https://user-images.githubusercontent.com/705880/79022069-02932380-7b32-11ea-8bad-49907cb97ece.png",
       "date": "2020-04-10T13:00:00-07:00",
-      "notify": true
+      "notify": false
     },
     {
       "title": "iOS 13.4 Fixes App Crashes",
