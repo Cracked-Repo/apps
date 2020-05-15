@@ -1,7 +1,7 @@
 {
   "name": "Cracked Repo",
   "identifier": "com.crackedrepo.AltStore",
-  "sourceURL": "https://raw.githubusercontent.com/Cracked-Repo/apps/master/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/Cracked-Repo/apps/master/main.json",
   "apps": [
     {
       "name": "Cercube 5",
