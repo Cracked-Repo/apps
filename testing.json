@@ -16,6 +16,9 @@
       "iconURL": "https://raw.githubusercontent.com/Cracked-Repo/apps/master/apps/MediaBoxHD/mediaboxicon.png",
       "tintColor": "32CD32",
       "size": 57384853,
+      "permissions": [
+        
+      ],
     },
     {
       "name": "Spotify++",
