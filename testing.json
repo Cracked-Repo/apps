@@ -79,7 +79,7 @@
       "title": "Cracked Repo Testing",
       "identifier": "testing-branch-warning",
       "caption": "Hello there, welcome to cracked repo. Note you are on the testing branch! main branch recommended.",
-      "tintColor": "34C759",
+      "tintColor": "b0199c",
       "date": "2020-05-14",
       "notify": true
     }
