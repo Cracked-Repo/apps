@@ -5,9 +5,8 @@
   "apps": [
     {
       "name": "MediaBoxHD",
-      "bundleIdentifier": "com.mediaboxhd.mediabox",
+      "bundleIdentifier": "mediaboxhd.event.2",
       "developerName": "MediaBoxHD",
-      "subtitle": "Watch Movies Free",
       "version": "2.4.9.2",
       "versionDate": "2020-05-14",
       "versionDescription": "Fixed Bugs",
@@ -17,14 +16,16 @@
       "tintColor": "32CD32",
       "size": 57384853,
       "permissions": [
-        
+        {
+          "type": "bluetooth",
+          "usageDescription": "This allows you to connect to bluetooth devices",
+        }
       ],
     },
     {
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "@JulioVerne",
-      "subtitle": "Spotify Premium free",
       "version": "8.5.53",
       "versionDate": "2020-05-12",
       "versionDescription": "Fixed to work on newer iOS versions..",
