@@ -4,6 +4,20 @@
   "sourceURL": "https://raw.githubusercontent.com/Cracked-Repo/apps/master/testing.json",
   "apps": [
     {
+      "name": "MediaBoxHD",
+      "bundleIdentifier": "com.mediaboxhd.mediabox",
+      "developerName": "MediaBoxHD",
+      "subtitle": "Watch Movies Free",
+      "version": "2.4.9.2",
+      "versionDate": "2020-05-14",
+      "versionDescription": " ",
+      "downloadURL": "https://github.com/Cracked-Repo/apps/blob/master/apps/MediaBoxHD/mediaboxhd.ipa?raw=true",
+      "localizedDescription": "MediaBoxHD allows you to watch almost any movie or TV show for free.",
+      "iconURL": "",
+      "size": 57384853,
+
+    },
+    {
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "@JulioVerne",
