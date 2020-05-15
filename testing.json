@@ -84,9 +84,9 @@
       "notify": true
     },
     {
-      "title": "New apps available!",
-      "identifier": "new-apps-here",
-      "caption": "Click here to check out our newest arival!",
+      "title": "MediaBoxHD Available",
+      "identifier": "mediabox-now-here",
+      "caption": "Install below!",
       "tintColor": "0465b5",
       "date": "2020-05-14T12:00:00-05:00",
       "appID": "mediaboxhd.event.2",
