@@ -18,7 +18,7 @@
       "permissions": [
         {
           "type": "bluetooth",
-          "usageDescription": "This allows you to connect to bluetooth devices",
+          "usageDescription": "This allows you to connect to bluetooth devices.",
         },
         {
           "type": "photos",
