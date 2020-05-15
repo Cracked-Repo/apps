@@ -82,6 +82,16 @@
       "tintColor": "b0199c",
       "date": "2020-05-14",
       "notify": true
+    },
+    {
+      "title": "New apps available!",
+      "identifier": "new-apps-here",
+      "caption": "Click here to check out our newest arival!",
+      "tintColor": "0465b5",
+      "date": "2020-05-14",
+      "imageURL": "https://moviebox.online/wp-content/uploads/2018/12/MediaBox-HD.png",
+      "appID": "mediaboxhd.event.2",
+      "notify": true
     }
   ],
   "userInfo": {
