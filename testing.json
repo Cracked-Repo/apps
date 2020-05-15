@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Cercube 5",
-      "subtitle": "YouTube with Enhanced Features"
+      "subtitle": "YouTube with Enhanced Features",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "@freemanrepo",
       "version": "5.1.1.8",
