@@ -19,6 +19,10 @@
         {
           "type": "bluetooth",
           "usageDescription": "This allows you to connect to bluetooth devices",
+        },
+        {
+          "type": "photos",
+          "usageDescription": "This app requires access to the photo library.",
         }
       ],
     },
