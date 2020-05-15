@@ -121,8 +121,8 @@
   "news": [
     {
       "title": "Cracked Repo Testing",
-      "identifier": "testing-branch",
-      "caption": "Hello there, welcome to Cracked Repo. Note you are on the testing branch! Please note that this branch is constantly having updates which may cause the source to temporarily stop working(main branch recommended)",
+      "identifier": "testing-branch-updated",
+      "caption": "Hello there, welcome to Cracked Repo. You are on the testing branch! Please note that this branch is constantly having updates which may cause the source to temporarily stop working(main branch recommended)",
       "tintColor": "b0199c",
       "date": "2020-05-14",
       "notify": true
