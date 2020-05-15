@@ -68,6 +68,10 @@
           "usageDescription": "This lets you set access restrictions using Face ID."
         }
       ],
+      "screenshotURLs": [
+        "https://www.airship.com/wp-content/uploads/imported/spotify-app-discover-weekly-screenshot.jpg",
+        "https://www.airship.com/wp-content/uploads/imported/spotify-app-release-radar-screenshot.jpg"
+      ]
     }
   ],
   "news": [
