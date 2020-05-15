@@ -60,11 +60,11 @@
   ],
   "news": [
     {
-      "title": "Cracked Repo",
-      "identifier": "thank-you-for-using-crackedrepo",
-      "caption": "Thanks for choosing cracked repo!",
+      "title": "Cracked Repo Testing",
+      "identifier": "testing-branch-warning",
+      "caption": "Hello there, welcome to cracked repo. Note you are on the testing branch! main branch recommended.",
       "tintColor": "34C759",
-      "date": "2020-05-12",
+      "date": "2020-05-14",
       "notify": true
     }
   ],
