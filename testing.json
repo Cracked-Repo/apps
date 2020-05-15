@@ -6,7 +6,7 @@
     {
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
-      "developerName": "Julio Verne",
+      "developerName": "@JulioVerne",
       "subtitle": "Spotify Premium free",
       "version": "8.5.53",
       "versionDate": "2020-05-12",
@@ -15,7 +15,7 @@
       "localizedDescription": "Spotify++ allows you to stream any song you want without ads.",
       "iconURL": "https://raw.githubusercontent.com/Cracked-Repo/apps/master/apps/Spotify%2B%2B/AppIcon60x60%402x.png",
       "tintColor": "32CD32",
-      "size": 112178694,
+      "size": 48990554,
       "permissions": [
         {
           "type": "camera",
