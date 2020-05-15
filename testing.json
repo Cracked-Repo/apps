@@ -25,6 +25,10 @@
           "usageDescription": "This app requires access to the photo library.",
         }
       ],
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/themoviedbcontent/imgs/master/9.png",
+        "https://raw.githubusercontent.com/themoviedbcontent/imgs/master/14.png"
+      ]
     },
     {
       "name": "Spotify++",
