@@ -175,7 +175,7 @@
   "news": [
     {
       "title": "Introducing App Request",
-      "identifier": "requests-apps-now",
+      "identifier": "request-apps-now",
       "caption": "Click this notifcation to request an app.",
       "url": "mailto:apprequest@cracked-repo-mail.tk",
       "tintColor": "c9a222",
