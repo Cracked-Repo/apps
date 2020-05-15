@@ -80,6 +80,54 @@
       ]
     },
     {
+      "name": "Rocket for Instagram",
+      "bundleIdentifier": "MH9GU9K5PX.com.burbn.instagram",
+      "developerName": "@freemanrepo",
+      "version": "3.6.15",
+      "versionDate": "2020-05-15",
+      "versionDescription": "Added to Rocket to Cracked Repo.",
+      "downloadURL": "",
+      "localizedDescription": "Rocket for Instagram is the one and only tweak that you'll need for Instagram. Made by Instagram users for Instagram users.",
+      "iconURL": "",
+      "tintColor": "960538",
+      "size": 66227192,
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "This lets you take photos and record video.",
+        },
+        {
+          "type": "contacts",
+          "usageDescription": "This helps you and others find friends and more. Your contacts will be synced and securely stored on Instagram's servers.",
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "This lets you log into Instagram using Apple Face ID.",
+        },
+        {
+          "type": "location",
+          "usageDescription": "Instagram uses this to make some features work, personalize content, help people find places and more. You can always change this later in your phone’s settings."
+        },
+        {
+          "type": "location-when-in-use",
+          "usageDescription": "Instagram uses this to make some features work, personalize content, help people find places and more. You can always change this later in your phone’s settings",
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you record videos with sound.",
+        },
+        {
+          "type": "photos",
+          "usageDescription": "This lets you save photos and videos to your Camera Roll.",
+        }
+      ],
+      "screenshotURLs": [
+        "https://getrocketapp.io/assets/images/scv-6.jpg",
+        "https://getrocketapp.io/assets/images/scv-5.jpg",
+        "https://getrocketapp.io/assets/images/header-screen-2.jpg"
+      ],
+    },
+    {
       "name": "Spotify++",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "@JulioVerne",
