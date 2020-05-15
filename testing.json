@@ -89,7 +89,7 @@
       "caption": "Click here to check out our newest arival!",
       "tintColor": "0465b5",
       "date": "2020-05-14T12:00:00-05:00",
-      "imageURL": "https://moviebox.online/wp-content/uploads/2018/12/MediaBox-HD.png",
+      "appID": "mediaboxhd.event.2",
       "notify": true
     }
   ],
