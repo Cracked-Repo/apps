@@ -10,10 +10,11 @@
       "subtitle": "Watch Movies Free",
       "version": "2.4.9.2",
       "versionDate": "2020-05-14",
-      "versionDescription": " ",
+      "versionDescription": "Fixed Bugs",
       "downloadURL": "https://github.com/Cracked-Repo/apps/blob/master/apps/MediaBoxHD/mediaboxhd.ipa?raw=true",
       "localizedDescription": "MediaBoxHD allows you to watch almost any movie or TV show for free.",
       "iconURL": "https://raw.githubusercontent.com/Cracked-Repo/apps/master/apps/MediaBoxHD/mediaboxicon.png",
+      "tintColor": "32CD32",
       "size": 57384853,
     },
     {
