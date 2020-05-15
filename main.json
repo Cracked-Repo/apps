@@ -1,7 +1,7 @@
 {
   "name": "Cracked Repo",
   "identifier": "com.crackedrepo.AltStore",
-  "sourceURL": "https://raw.githubusercontent.com/Cracked-Repo/apps/master/main.json",
+  "sourceURL": "https://raw.githubusercontent.com/cracked-repo/apps/master/main.json",
   "apps": [
     {
       "name": "Cercube 5",
@@ -177,7 +177,7 @@
       "title": "Introducing App Request",
       "identifier": "request-apps-now",
       "caption": "Click this notifcation to request an app.",
-      "url": "mailto:apprequest@cracked-repo-mail.tk",
+      "url": "https://forms.gle/yzUWLWmmbVS7rieW6",
       "tintColor": "c9a222",
       "date": "2020-05-15",
       "notify": true
